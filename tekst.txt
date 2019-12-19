@@ -1,7 +1,7 @@
 disas greetUser
 break *
 x/200xb $esp
-p $sep
+p $esp
 p &somedata
 
 run $(python -c "print ('A'* 1015)")

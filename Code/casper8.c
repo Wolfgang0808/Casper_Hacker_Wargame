@@ -1,0 +1,22 @@
+#include <stdio.h>
+#include <unistd.h>
+
+void greetUser(char *s) {
+    char buf[999];
+    strcpy(buf, s);
+    printf("Hello %s!\n", buf);
+}
+
+int main(int argc, char **argv) {
+    if(argc < 2) {
+        printf("Usage: %s YourName\n", argv[0]);
+        exit(1);
+    }
+    // never add this in your own program
+    setresuid(geteuid(), geteuid(), geteuid());
+
+
+    greetUser(argv[1]);
+
+    return 0;
+}
