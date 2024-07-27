@@ -1,4 +1,4 @@
-# Project Development of Secure Software: Casper Hacker Wargame.
+# Project Development of Secure Software: Casper Hacker Wargame
 
 ## Install
 
