@@ -7,4 +7,4 @@ The report [Casper.pdf](https://github.com/Wolfgang0808/Casper_Hacker_Wargame/bl
 * **[Wolfgang0808](https://github.com/Wolfgang0808)**
 
 ## DISCLAIMER
-We do **not** condone any form of plagiarism. If you use this project to make the same assignment you are putting yourself at risk.
+I do **not** condone any form of plagiarism. If you use this project to make the same assignment you are putting yourself at risk.
