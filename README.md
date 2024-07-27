@@ -1,7 +1,5 @@
 # Project Development of Secure Software: Casper Hacker Wargame
 
-## Install
-
 ## Execute
 
 ## Authors
